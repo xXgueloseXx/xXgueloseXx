@@ -20,6 +20,7 @@
  <a href="https://discord.com/invite/bVZAr5XZ8d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexjunior2411@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-júnior-a99626218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.twitch.tv/ogueloo" target="_blank"><img src="https://img.shields.io/twitch/status/ogueloo?style=social" target="_blank"></a>
  
   ![Snake animation](https://github.com/xXgueloseXx/xXgueloseXx/blob/output/github-contribution-grid-snake.svg)
 
